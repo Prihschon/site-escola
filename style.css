@@ -43,3 +43,8 @@ padding: 24px 0;
 color:white;
 font-size: 24px;
 }
+
+.estudante-todos div{ 
+display: inline block;
+margin: 0 10px
+}
